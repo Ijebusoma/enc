@@ -127,7 +127,7 @@ System.out.println("oops,looks like the encoding method doesn't exixts, try agai
 public static void useSecretKey()
 {     Scanner input=new Scanner(System.in);
       System.out.println("Enter Text to be encrypted");
-		
+		System.out.println("it can be anything");
                 String stringToBeEncrypted = input.nextLine();
                 try
                 {
