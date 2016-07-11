@@ -110,6 +110,7 @@ System.out.println("Error, error: Block size is quite abnormal");
 	    catch (UnsupportedEncodingException e)
 	     {
 System.out.println("oops,looks like the encoding method doesn't exixts, try again ");
+System.out.println("oops,looks like the encoding method doesn't exixts, try again ");
 	     }
 	    catch (IOException e)
             {
